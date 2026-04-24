@@ -1,6 +1,3 @@
-#HELOX-MD
-
-
 <div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6a0dad,100:ab47bc&text=HELOX%20MD&fontColor=ffffff&fontSize=85&fontAlignY=40&animation=twinkling&desc=Powered%20By%20HELOX%20Team&descSize=20&descAlignY=65&stroke=ffffff&strokeWidth=1.2" width="100%"/>
@@ -98,7 +95,7 @@
 
 ### 🌊 GET HELOX-MD SESSION ID
 <p align="center">
-  <a href="[https://helox-md.onrender.com/)">
+  <a href="https://helox-md.onrender.com">
     <img src="https://img.shields.io/badge/💫_HELOX--MD_PAIR_CODE-4F46E5?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=1e1b4b" alt="HELOX-MD Pairing"/>
   </a>
 </p>
@@ -124,7 +121,7 @@ Deploy this same app to Render using:
 
 After deploy, replace:
 
-- `https://YOUR-HELOX-PAIR.onrender.com`
+- `https://helox-md.onrender.com`
 
 with your real Render URL.
 
