@@ -98,7 +98,7 @@
 
 ### 🌊 GET HELOX-MD SESSION ID
 <p align="center">
-  <a href="https://YOUR-HELOX-PAIR.onrender.com">
+  <a href="[https://helox-md.onrender.com/)">
     <img src="https://img.shields.io/badge/💫_HELOX--MD_PAIR_CODE-4F46E5?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=1e1b4b" alt="HELOX-MD Pairing"/>
   </a>
 </p>
